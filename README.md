@@ -8,7 +8,7 @@ I specialize in developing LLM-powered features, building AI-driven workflows, i
 
 My interests lie at the intersection of **Generative AI, Agentic AI, Backend Engineering, and Applied Machine Learning**.
 
-I enjoy turning ideas into practical AI products — from prototyping and backend development to integration and deployment.
+I enjoy turning ideas into practical AI products - from prototyping and backend development to integration and deployment.
 
 ---
 
@@ -95,12 +95,13 @@ Also familiar with: `Celery` `REST APIs` `Datadog` `Azure Data Studio` `Microsof
   <a href="https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-  <a href="https://instagram.com/aditya_rathor45" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
+  
+
   <a href="https://www.leetcode.com/adirathor" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
   </a>
+
+  
   <a href="https://auth.geeksforgeeks.org/user/adirathor8" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" />
   </a>
